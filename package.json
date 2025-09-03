@@ -4,7 +4,7 @@
   "description": "App híbrida para restaurante con HTML5 y simulación de Google Drive",
   "main": "index.html",
   "scripts": {
-    "start": "npx serve -p 3300 www"
+    "start": "npx serve -p 3300 public"
   },
   "dependencies": {
     "@capacitor/core": "^6.1.2",

@@ -1,5 +1,5 @@
 {
   "appId": "com.sabores.app",
   "appName": "RestauranteSaboresMagicos",
-  "webDir": "www"
+  "webDir": "public"
 }
